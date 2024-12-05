@@ -1,4 +1,0 @@
-{"waves": [{"amplitude": 50.0, "period": 200.0, "speed": 0.5, "phase": 0.0, "vertical_offset": 200.0},
-  {"amplitude": 50.0, "period": 200.0, "speed": 0.5, "phase": 1.5, "vertical_offset": 400.0}],
-  "floats": [{"mass": 1.0, "volume": 0.5, "wave_index": 0},
-    {"mass": 0.5, "volume": 0.3, "wave_index": 1}]}
